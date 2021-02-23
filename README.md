@@ -1,2 +1,3 @@
 # shop-market
-A shop made on python. Not much to say. 
+A shop made on python.
+You can create a product, see all products and add to cart. Then finish the purchase.
