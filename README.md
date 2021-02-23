@@ -1,2 +1,2 @@
-# lojinha
-Uma loja feita em python. Com 6 funções diversas. 
+# shop-market
+A shop made on python. Not much to say. 
