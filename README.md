@@ -1,3 +1,7 @@
 # shop-market
 A shop made on python.
-You can create a product, see all products and add to cart. Then finish the purchase.
+You can:
+create a product;
+see all products;
+add to cart; 
+Then finish the purchase.
